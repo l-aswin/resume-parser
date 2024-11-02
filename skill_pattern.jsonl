@@ -1,0 +1,7 @@
+{"label":"SKILL","pattern":[{"TEXT":"java"}]}
+{"label":"SKILL","pattern":[{"TEXT":".NET"}]}
+{"label":"SKILL","pattern":[{"TEXT":"LLM"}]}
+{"label":"SKILL","pattern":[{"TEXT":".net"}]}
+{"label": "EMAIL","pattern": [{"TEXT": {"REGEX": "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}"}}]}
+{"label":"MOBILE","pattern":[{"SHAPE": "ddd"}, {"ORTH": "-", "OP": "?"}, {"SHAPE": "dddd"}]}
+
